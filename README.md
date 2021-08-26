@@ -1,37 +1,15 @@
-#include <vcl.h>
-#include <windows.h>
-#pragma hdrstop
-#pragma argsused
-#include <tchar.h>
-#include <stdio.h>
- 
-void rotate_donut_3D(void)
-{   // Originally Code by Andy Sloane https://www.a1k0n.net/2011/07/20/donut-math.html
-        int k; //by Andy Sloane
-      system("cls"); //C++ Builder
-     float A= 0,B=0,i,j,z[1760];char
-    b[1760];printf("\x1b[2J");for(;;
-  ){memset(b,32,1760);memset(z,0,7040)
-  ;for(j=0;6.28>j;j+=0.07)for(i=0;6.28
- >i;i+=0.02){float c=sin(i),d=cos(j),e=
- sin(A),f=sin(j),g=cos(A),h=d+2,D=1/(c*
- h*e+f*g+5),l=cos      (i),m=cos(B),n=s\
-in(B),t=c*h*g-f*         e;int x=40+30*D*
-(l*h*m-t*n),y=            12+15*D*(l*h*n
-+t*m),o=x+80*y,          N=8*((f*e-c*d*g
- )*m-c*d*e-f*g-l        *d*n);if(22>y&&
- y>0&&x>0&&80>x&&D>z[o]){z[o]=D;;;b[o]=
- ".,-~:;=!*#$@"[N>0?N:0];}} /*#****!!-*/
-  printf("\x1b[H");for(k=0;1761>k;k++)
-   putchar(k%80?b[k]:10);A+=0.04;B+=
-      0.02;}/*****####*******!!=;:~
-        ~::==!!!**********!!!==::-
-          .,~~;;;========;;;:~-.
-              ..,--------,*/
-}
- 
-int _tmain(int argc, _TCHAR* argv[])
-{
- rotate_donut_3D();
- return 0;
-}
+<h1 align="center">Hi 👋, I'm plex.</h1>
+<h3 align="center"></h3>
+
+<h3 align="left">Socials:</h3>
+<p align="left">
+<a href="https://www.instagram.com/whoisplex/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@whoisplex" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCJKUiXyfXxidw-AHebDiJ4A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="plex" height="30" width="40" /></a>
+<a href="https://discord.gg/gCGqj3WdND" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="plex#0911" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"><a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whoisplex&show_icons=true&locale=en" alt="whoisplex" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=whoisplex&show_icons=true&locale=en&layout=compact" alt="whoisplex" /></p>
