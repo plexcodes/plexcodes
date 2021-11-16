@@ -14,13 +14,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whoisplex&show_icons=true&locale=en" alt="whoisplex" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=whoisplex&show_icons=true&locale=en&layout=compact" alt="whoisplex" /></p>
 <p align="center">
-made with swag by
-________  ___       _______      ___    ___ 
-|\   __  \|\  \     |\  ___ \    |\  \  /  /|
-\ \  \|\  \ \  \    \ \   __/|   \ \  \/  / /
- \ \   ____\ \  \    \ \  \_|/__  \ \    / / 
-  \ \  \___|\ \  \____\ \  \_|\ \  /     \/  
-   \ \__\    \ \_______\ \_______\/  /\   \  
-    \|__|     \|_______|\|_______/__/ /\ __\ 
-                                 |__|/ \|__| 
+made with swag by </br>
+________  ___       _______      ___    ___ </br>
+|\   __  \|\  \     |\  ___ \    |\  \  /  /|</br>
+\ \  \|\  \ \  \    \ \   __/|   \ \  \/  / /</br>
+ \ \   ____\ \  \    \ \  \_|/__  \ \    / /</br>
+  \ \  \___|\ \  \____\ \  \_|\ \  /     \/  </br>
+   \ \__\    \ \_______\ \_______\/  /\   \  </br>
+    \|__|     \|_______|\|_______/__/ /\ __\ </br>
+                                 |__|/ \|__| </br>
   </p>
