@@ -13,3 +13,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whoisplex&show_icons=true&locale=en" alt="whoisplex" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=whoisplex&show_icons=true&locale=en&layout=compact" alt="whoisplex" /></p>
+</br>
+<p align="center">Shit I made: http://info1robotics.com/ </p>
